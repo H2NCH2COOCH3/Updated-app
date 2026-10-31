@@ -1,0 +1,22 @@
+{
+  "creatures": [
+    {
+      "id": 75509624,
+      "name": "Brambleon",
+      "element": "Nature",
+      "rarity": "Common",
+      "stage": 0,
+      "level": 2,
+      "exp": 0,
+      "favorite": false,
+      "seed": 421808,
+      "max_hp": 94,
+      "attack": 17,
+      "defense": 7,
+      "hp": 94
+    }
+  ],
+  "selected": 75509624,
+  "coins": 128,
+  "orbs": 5
+}

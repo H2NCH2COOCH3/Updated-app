@@ -1,0 +1,32 @@
+{
+  "gold": 98125,
+  "owned": [
+    {
+      "species": "Mossfang",
+      "level": 13
+    },
+    {
+      "species": "Aquafin",
+      "level": 112
+    },
+    {
+      "species": "Voltclaw",
+      "level": 12
+    },
+    {
+      "species": "Noctwing",
+      "level": 2
+    },
+    {
+      "species": "Emberfox",
+      "level": 7
+    },
+    {
+      "species": "Drakoryx",
+      "level": 60
+    }
+  ],
+  "selected": 5,
+  "captures": 46,
+  "wins": 4766
+}
